@@ -172,6 +172,48 @@ aside {
     }
 }
 
+
+
+
+/*----- Bottom Level -----*/
+/*.menu li:hover .sub-menu {
+    z-index:1;
+    opacity:1;
+}
+ 
+.sub-menu {
+    width:160%;
+    padding:5px 0px;
+    position:absolute;
+    top:100%;
+    left:0px;
+    z-index:-1;
+    opacity:0;
+    transition:opacity linear 0.15s;
+    box-shadow:0px 2px 3px rgba(0,0,0,0.2);
+    background:#2e2728;
+}
+ 
+.sub-menu li {
+    display:block;
+    font-size:16px;
+}
+ 
+.sub-menu li a {
+    padding:10px 30px;
+    display:block;
+}
+ 
+.sub-menu li a:hover, .sub-menu .current-item a {
+    background:#3e3436;
+}*/
+
+
+
+
+
+
+
 header {
     position: relative;
     width: 100%;
@@ -274,7 +316,7 @@ header .header-content .header-content-inner p {
     text-align: center;
     color: #fff;
     opacity: 0;
-    background: rgba(240,95,64,.9);
+    background: rgba(40,40,40,.9); /*hover color for issue cover boxes (now: GRAY)*/
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
