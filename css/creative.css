@@ -29,11 +29,13 @@ a {
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
+    text-decoration:none;
 }
 
 a:hover,
 a:focus {
     color: #eb3812;
+    text-decoration:none;
 }
 
 h1,
