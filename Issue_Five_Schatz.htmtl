@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>The Postscript Journal</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css">
+
+    <!-- Custom NavBar CSS -->
+    <link rel="stylesheet" href="navbar.css" type="text/css">
+
+    <!-- Custom Fonts -->
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="font-awesome/css/font-awesome.min.css" type="text/css">
+
+    <!-- Plugin CSS -->
+    <link rel="stylesheet" href="css/animate.min.css" type="text/css">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="css/creative.css" type="text/css">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body id="page-top">
+
+    <nav id="mainNav" class="navbar navbar-default navbar-fixed-top">
+        <div class="container-fluid">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand page-scroll" href="index.html" style="color:#000000">The Postscript Journal</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right" id="custom-aznarei-navbar">
+                    <li>
+                        <a href="About.html">About &#9662;</a>
+                        <ul class="dropdown" id="custom-aznarei-dropdown">
+                            <li><a href="Masthead.html">Masthead</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="Online.html" id="selected">Online</a></li>
+                    <li><a href="Print.html">Print</a></li>
+                    <li><a href="Submit.html">Submit</a></li>
+                    <li><a href="Contact.html">Contact</a></li>
+                </ul>
+            </div>
+            
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container-fluid -->
+    </nav>
+
+    <header>
+        <div class="header-content">
+            <div class="header-content-inner">
+<!--                 <h1>The Postscript Journal</h1> -->
+            </div>
+        </div>
+    </header>
+
+
+
+<!-- About -->
+        <div class="col-lg-12">
+            <div class="row">
+                <div class="text-left" style="margin-left:20px">
+                    <br>
+                    <p align="left"><a href="Issue_Five.html">← Back to Issue Five</a></p>
+                </div>
+                <div class="col-lg-10 col-sm-10 col-lg-offset-1 col-sm-offset-1 text-left">
+                    <center>
+                        <p>Issue Five</p>
+                        <hr class="primary">
+                        <br>
+                        <h2 class="section-heading">Kansas</h2>
+                        <h2 class="section-heading" style="font-size:16px"><font face="Garamond">Claudia Schatz</font></h2>
+                    </center>
+                    <br>
+                    <p class="text-left" style="min-width:800px">
+                        <p>The nights did not hum, or sing, or buzz. They were simply flat, as if all the fizz in the air had been forced from them by some monumental pressure that I could not see, but always felt, like a man’s hand on each of my shoulders. In this tepid, soda-water Kansas of mine, only one religion existed: the exaltation of the border. I would stand on my side of the line, eyeing the corn stalks, before taking one giant step forward. Only then would the air shimmer, hiss, crackle even, as I crossed the line.  I'd breathe in one cool lungful of that rich Oklahoma air and whisper, to no one in particular, "I'm not in Kansas anymore."</p>
+                        <p>Then, I would step back across the border into the gritty Kansas night, lungs instantly clogged and cluttered with the hot, dense air of a foreign homeland.</p>
+                        <br>
+                        <p>The crowning glory of our move to Kansas was the pair of funerals we attended just five weeks after our dutiful pilgrimage. Mama had wanted to be closer to her not-quite-gone parents, and my father had been asleep the afternoon she splurged on three plane tickets and an excuse to hunt for a house, so it was fair game.</p>
+                        <p>“We’ll be right near the border,” she told me, cupping my chin with a slightly ash-stained hand. Back then, she still turned her head carefully aside from my face before exhaling smoke. “Right near--it’s as good as in our backyard. We’ll have much more space, be closer to Grandma and Grandaddy.”</p>
+                        <p>I focused on the bottles that filled my arms. It was Sunday, garbage day, and I was quietly gathering gleaming brown glass from all the flat surfaces in the house. I had to shift just to keep it all from tumbling to the ground, and made sure to move away from Mama’s fingertips.</p>
+                        <p>“Well?” she demanded, tapping ash off the end of her cigarette.</p>
+                        <p>I could feel her try to catch my eye, and made sure not to let her. I imagined that the rusted “No Smoking” sign in the building’s stairwell was plastered like tiles to the kitchen floor beneath us, faded words instead of linoleum, accumulating soot. No Smoking, No Smoking, NoSmokingNoSmokingNoSmokingNoSmoking,</p>
+                        <p>“Start packing,” she said.</p>
+                        <p>The tunnel-streets of our city had made Mama’s youth seem more distant than ever. Maybe she thought the brown dust of Kansan fields wouldn't stick to her white summer dresses the way spray from taxi tires did. And maybe she would have been right, but even after we arrived, we never found out--we wore a lot of black that summer.</p>
+                        <p>Her parents had brilliant timing. One day they were not-quite-gone and the next day they simply were, before I could learn to miss them. By the time we had paid for the gravestones and my crisp black suit, our savings were gone: no plane tickets back. Mama folded away her white summer dresses and settled down to cigarettes at the kitchen table and didn't get up for eight months.</p>
+                        <p>"Welcome to Kansas," the neighbors hardly dared to whisper.</p>
+                        <p>"We should go home," grunted my father.</p>
+                        <p>"And where the fuck is that?" asked my mother, turning from the table to sneer up at him.</p>
+                        <p>He snorted, threw his hands up in the air, and muttered something foul under his breath before storming out. He always let the screen door slam behind him when he clattered across the slats of the old wooden porch and out into the yard that stood between our house and the dusty fields we supposedly owned but didn't know how to cultivate.</p>
+                        <p>I could only ever seem to storm from the house in my own gentle rain-shower way. I would tiptoe across the porch, taking special care to shut the screen door very, very softly. I liked finding out how quiet I could be. I even liked how my father called me a pussy for my calm storms, how he'd stomp around the house as if he were proving a point. I figured that if a pussy was small and quiet and could dash from the house without my mom shrieking some variation of "Worthless asshole!" after him, then that’s what I would be.</p>
+                        <p>Before our move, back in the city, my father simply dozed through most days and into the streetlight twilight, when he’d resurface for long enough to reach into the fridge for yet another sweating bottle. All Mama and I had to do was keep the windows shut to block out city-street sounds and put the air conditioner on high. We had no such luck in Kansas; he was always awake. Somehow, the duller, diffuse daytime buzzing of the fields and tractors permeated all but the heaviest of his amber-liquid fogs, and couldn’t be blocked by any of Mama’s and my desperate combinations of locked windows, whirring fans, and sputtering second-hand television sets dialed all the way up. In it’s own monotonous way, Kansas brought my father to life.</p>
+                        <p>It became, to me, the state of men. It was the land of fathers, a place distinctly characterized by masculinity, the first place that taught me hatred of men. Not all men, of course--I didn't see the world in Kansas, because the world is not in Kansas. But in Kansas I saw the first dark glimmers of the world of men, and it looked like midwestern sun gleaming on glass bottles, sounded like a screen door slamming.</p>
+                        <p>By nightfall, I would be dashing through our field, along the trail I had worn myself through the maze of weeds that grew waist-high, chest-high, neck-high, sky-high, ravenous for every inch that we unwittingly gave to them. I knew the way to the border by heart, could walk blindfolded to my hollow amongst the stems that were shaped to fit the curve of my spine.</p>
+                        <p>Right there, on the cusp of Kansas, I learned to see sights that were not there. I trained my eyes until I could stare at a wall of thick grass and see instead a night sky with all the constellations mapped, or a mountain range ruled by kestrels and cougars, or a luminous cascade that sent wriggly ripples of silver light fluttering across my dust-drenched skin. I would watch the world go by, not the world in Kansas, but the real world. I would watch until I believed it: "I'm not in Kansas anymore."</p>
+                        <br>
+                        <p>I can only see Kansas in two colors, a strange dichotomy. It is the bright, violent light of summer heat rippling through the air. It is the darkness of a house with all the shades pulled down during daytime. It is the way these two polar opposites came together, sunlight glinting on the glass bottles in my father's hands as he slept.</p>
+                        <p>I was taught, better than most, how to be a man. I learned how to bring red and blue and purple to a woman's face, not with her various powders and creams but with a well-aimed blow. I learned how to down bottles until I denied having drunk a single one, and then downing more until I believed it myself. I learned how to rage at the world, demand more from it, shriek profanities at it when it did not comply with my wishes. I learned all of these things through careful observation. From what I saw, I learned how to be a man. All you had to do, I realized, was be nothing like my father.</p>
+                        <br>
+                        <p>Mama stopped smoking just to spite him. She didn't like the purchase it gave him, how when she threw his bottles out the window he could tip her ashtray into the laundry in return, yet another stain she wouldn't be able to scrub out. The first night I wandered into the kitchen to find her bent over a crossword puzzle instead of a pack of Camels, my father was already there, leaning down towards her.</p>
+                        <p>They followed their usual pattern: scream, retort, pound fist on table, point finger, brittle sarcasm, swig fiercely from bottle, wrestle over bottle, send bottle sailing out window (my father close behind), slam the door while Mama brandished whatever was closest--a spatula, a mop, a half-finished book of crossword puzzles. Then she absentmindedly shoved me out of my stony-eyed vigil in the shadows of the doorway, whooshing past.</p>
+                        <p>It's impossible to forget how darkly that night gleamed. Even our own dull field seemed to emit an inky, iridescent light of its own. I ran from the house and found my silent, hidden path, weaving my way down it: a quick twist here, sharp left there, around this odd, gnarled, half-buried stump, arc back to the right, drawing closer to the border with each crackling step.</p>
+                        <p>In my hollow by the dividing line, I could stand tall at last, take up all the space I pleased, smiling out into the wild landscapes before my eyes: jungles, the original botanical gardens; sea floor ruins laced with strings of pearly bubbles, trapped. The summer air was hushed, holy, every sound muffled. I was underwater, deep beneath waves of wavering weeds. Reverently, I stepped across the border, and whispered to the crickets, "I'm not in Kansas anymore." I shut my eyes in the silence, believing and believing and believing.</p>
+                        <p>A hoot. A squawk. A crunch of brittle detritus underfoot. "Not in Kansas!" My father. He was laughing, looming large, his retrieved bottle glinting in that strange dark light. "What is this, some kind of mouse den back here? Your hidey hole?"</p>
+                        <p>I said nothing.</p>
+                        <p>He stepped close unsteadily and enjoyed another great guffaw. "Where d'you think you are, boy, at the edge of the world?"</p>
+                        <p>"The edge of Kansas, that's all," I muttered.</p>
+                        <p>"And ain't that the world!" he mocked, gesturing wildly to the darkness around us. "Ain't that the world." He looked over his shoulder with an over-exaggerated stagger-turn, and winked confidentially. "And P.S., kid, guess what? C'mere."</p>
+                        <p>I didn't move.</p>
+                        <p>He lurched in my direction, trampling my trail underfoot. "I said c'mere, you pussy, so c'mere!"</p>
+                        <p>I c'mered.</p>
+                        <p>He leaned his face into the side of my head, words wet with his breath. I felt his tongue flick my ear as he spoke. "This here isn't the border, boy, didn't you know? Border's a dozen miles south." He straightened before bowing low with a great flourish. Then he saluted me, throwing in another hoot at his own unbelievable hilarity before staggering off into the dark.</p>
+                        <p>Rich Oklahoma air, the last refuge, the only promise of a world away from Kansas, seemed to shatter around me. Instead, the land of men pressed in from all four sides, and I stood, quaking, in my trampled hollow at the edge of the world.</p>
+                        <br>
+                    </p>
+                        <hr class="primary">
+                        <br>
+                </div>
+                <div class="col-lg-6 col-sm-6 col-lg-offset-3 col-sm-offset-3 text-center">
+                    <p class="text-left">
+                        <font color="gray"><b>Claudia Schatz</b> is a 17-year-old writer from New Haven, Connecticut, where she lives with her family and three slightly neurotic cats. She is in the Creative Writing department at Cooperative Arts and Humanities High School. Her writing has been featured in several department showcases at her school, as well as on the online school newspaper, Coopvoices, and in the school literary magazine, Metamorphosis. She was a 2014 National YoungArts Finalist in short story. She is also a three-season track athlete, and loves reading, ice cream, and photography.</font>
+                    </p>
+                </div>
+            </div> 
+        </div>
+
+<br>
+
+<!-- Copyright -->
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <hr class="primary">
+                    <p>Copyright © 2012-2015, The Postscript Journal. All rights reserved.</p>
+                </div>
+            </div>
+        </div>
+
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="js/jquery.easing.min.js"></script>
+    <script src="js/jquery.fittext.js"></script>
+    <script src="js/wow.min.js"></script>
+
+    <!-- Custom Theme JavaScript -->
+    <script src="js/creative.js"></script>
+
+</body>
+
+</html>
