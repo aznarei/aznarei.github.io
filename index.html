@@ -14,6 +14,9 @@
     <!-- Bootstrap Core CSS -->
     <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css">
 
+    <!-- Custom NavBar CSS -->
+    <link rel="stylesheet" href="navbar.css" type="text/css">
+
     <!-- Custom Fonts -->
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
@@ -51,38 +54,20 @@
 
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                <ul class="nav navbar-nav navbar-right">
-<!-- <div class="menu-wrap">
-<nav class="menu">
-<ul class="clearfix"> -->
+                <ul class="nav navbar-nav navbar-right" id="custom-aznarei-navbar">
                     <li>
-                        <a href="About.html" style="color:#000000">About <span class="arrow">&#9660;</span></a>
-<!--                         <ul class="sub-menu">
-                            <li><a href="About.html">Overview</a></li>
+                        <a href="About.html" id="selected">About &#9662;</a>
+                        <ul class="dropdown" id="custom-aznarei-dropdown">
                             <li><a href="Masthead.html">Masthead</a></li>
-                        </ul> -->
+                        </ul>
                     </li>
-                    <li>
-                        <a href="Masthead.html" style="color:#000000">Masthead</a>
-                    </li>
-                    <li>
-                        <a href="Online.html" style="color:#000000">Online</a>
-                    </li>
-                    <li>
-                        <a href="Print.html" style="color:#000000">Print</a>
-                    </li>
-                    <li>
-                        <a href="Submit.html" style="color:#000000">Submit</a>
-                    </li>
-                    <li>
-                        <a href="Contact.html" style="color:#000000">Contact</a>
-                    </li>
-<!-- </ul>
-</nav>
-</div> -->
+                    <li><a href="Online.html">Online</a></li>
+                    <li><a href="Print.html">Print</a></li>
+                    <li><a href="Submit.html">Submit</a></li>
+                    <li><a href="Contact.html">Contact</a></li>
                 </ul>
             </div>
-            <!-- /.navbar-collapse -->
+
         </div>
         <!-- /.container-fluid -->
     </nav>
